@@ -1,6 +1,7 @@
 name: nodejs tb autosign
 
 on: 
+  workflow_dispatch:
   push:
   gollum: 
   schedule: 
